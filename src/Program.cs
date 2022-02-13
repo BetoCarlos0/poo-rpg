@@ -8,9 +8,11 @@ namespace poo_rpg
     {
         static void Main(string[] args)
         {
-            Arus player = new Arus("Arus", 10, "Guerreiro");
-            player.Name = "arus";
+            Knight arus = new Knight("Arus", 10, "Guerreiro");
+            Wizzard wizzard = new Wizzard("maguinha", 23, "Mage");
             
+            Console.WriteLine(wizzard.Attack(20));
+            Console.WriteLine(arus.Attack());
         }
     }
 }
