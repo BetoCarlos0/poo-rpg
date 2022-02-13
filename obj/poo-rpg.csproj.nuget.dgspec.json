@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\betoc\\Documents\\Visual Studio Projetos\\GitHub\\poo-rpg\\poo-rpg.csproj": {}
+    "D:\\betoc\\Documents\\Visual Studio Projetos\\GitHub\\poo-rpg\\poo-rpg.csproj": {}
   },
   "projects": {
-    "d:\\betoc\\Documents\\Visual Studio Projetos\\GitHub\\poo-rpg\\poo-rpg.csproj": {
+    "D:\\betoc\\Documents\\Visual Studio Projetos\\GitHub\\poo-rpg\\poo-rpg.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\betoc\\Documents\\Visual Studio Projetos\\GitHub\\poo-rpg\\poo-rpg.csproj",
+        "projectUniqueName": "D:\\betoc\\Documents\\Visual Studio Projetos\\GitHub\\poo-rpg\\poo-rpg.csproj",
         "projectName": "poo-rpg",
-        "projectPath": "d:\\betoc\\Documents\\Visual Studio Projetos\\GitHub\\poo-rpg\\poo-rpg.csproj",
+        "projectPath": "D:\\betoc\\Documents\\Visual Studio Projetos\\GitHub\\poo-rpg\\poo-rpg.csproj",
         "packagesPath": "C:\\Users\\betoc\\.nuget\\packages\\",
-        "outputPath": "d:\\betoc\\Documents\\Visual Studio Projetos\\GitHub\\poo-rpg\\obj\\",
+        "outputPath": "D:\\betoc\\Documents\\Visual Studio Projetos\\GitHub\\poo-rpg\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\betoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
